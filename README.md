@@ -5,8 +5,8 @@
 
 
 ## How to run this code:
-* To Run this code you need to have `Python 3.7.0` 64 bit installed i your system 
-* You must Visual studio 2019 Community version install Install it ![right now](https://visualstudio.microsoft.com/downloads/?utm_medium=microsoft&utm_source=docs.microsoft.com&utm_campaign=button+cta&utm_content=download+vs2019+rc)
+* To Run this code you need to have `Python 3.7.0` 64 bit installed in your system 
+* You must have Visual studio 2019 Community version install Install it ![right now](https://visualstudio.microsoft.com/downloads/?utm_medium=microsoft&utm_source=docs.microsoft.com&utm_campaign=button+cta&utm_content=download+vs2019+rc)
 
 * Choose the community Version and download it.
 

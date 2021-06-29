@@ -35,3 +35,6 @@
 ![](https://github.com/ChitralwarManik/Face-Recognition-model/blob/main/Images/facere.PNG)
 
 ![](https://github.com/ChitralwarManik/Face-Recognition-model/blob/main/Images/Capture.PNG)
+
+
+______________________________________________________________________________________________________________________________

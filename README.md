@@ -1,5 +1,7 @@
-# Build your own Face Recognition model 
-![](https://t4.ftcdn.net/jpg/02/87/07/13/360_F_287071353_WXFljgcyA6kHEniBIKCyqRYaviBZTS4p.jpg)
+# Build A Face Recognition model 
+<p align="center">
+  <img width="710" height="360" src="https://t4.ftcdn.net/jpg/02/87/07/13/360_F_287071353_WXFljgcyA6kHEniBIKCyqRYaviBZTS4p.jpg">
+</p>
 
 
 ## How to run this code:
@@ -14,10 +16,22 @@
 
 ![](https://github.com/ChitralwarManik/Face-Recognition-model/blob/main/Images/vs.PNG)
 
-* After you have downloaded just open python command prompt
-* add the images of the person in the **face folder ** with person name.jpg
+* Now Add image of person into **face folder**  with image name as person_name.jpg
 
-* write `pip install -r requirements.txt` 
-* and run the app by writing `face_rec.py`
+![](https://github.com/ChitralwarManik/Face-Recognition-model/blob/main/Images/addfile.PNG)
 
-## Results:
+* for prediction add the image to folder and rename to **test**
+
+![](https://github.com/ChitralwarManik/Face-Recognition-model/blob/main/Images/Captureresul.PNG)
+
+* You almost done now open python command prompt and go to the folder directory
+
+* write `pip install -r requirements.txt` to install the the required libraries.
+
+* and run the app by writing `python face_rec.py`
+
+# Results:
+
+![](https://github.com/ChitralwarManik/Face-Recognition-model/blob/main/Images/facere.PNG)
+
+![](https://github.com/ChitralwarManik/Face-Recognition-model/blob/main/Images/Capture.PNG)

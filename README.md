@@ -43,5 +43,5 @@
 ## And I tried it on a person wearing Mask...It will not predict anything. 
 &#128513;
 
-## Thank You
+## Thank You and give a star if you like it
 ______________________________________________________________________________________________________________________________

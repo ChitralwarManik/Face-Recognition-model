@@ -36,5 +36,12 @@
 
 ![](https://github.com/ChitralwarManik/Face-Recognition-model/blob/main/Images/Capture.PNG)
 
+* If he does not find the person then it mark it as **Unknow**
 
+![](https://github.com/ChitralwarManik/Face-Recognition-model/blob/main/Images/unknow.PNG)
+
+## And I tried it on a person wearing Mask...It will not predict anything. 
+&#128513;
+
+## Thank You
 ______________________________________________________________________________________________________________________________

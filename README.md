@@ -36,7 +36,7 @@
 
 ![](https://github.com/ChitralwarManik/Face-Recognition-model/blob/main/Images/Capture.PNG)
 
-* If he does not find the person then it mark it as **Unknow**
+* If he does not find the person then it mark it as **Unknown**
 
 ![](https://github.com/ChitralwarManik/Face-Recognition-model/blob/main/Images/unknow.PNG)
 
